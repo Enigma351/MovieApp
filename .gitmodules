@@ -1,0 +1,3 @@
+[submodule "MovieApp"]
+	path = MovieApp
+	url = https://github.com/Enigma351/MovieApp
